@@ -10,7 +10,7 @@
 
 Simple project just for myself. Uses asciimatics lib. 
 
-Sounds from https://freesounds.org
+Sounds from https://freesound.org
 
 ## Getting Started <a name = "getting_started"></a>
 1. Clone repository
