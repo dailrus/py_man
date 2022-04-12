@@ -19,7 +19,10 @@ Sounds from https://freesounds.org
 ```
 pip install asciimatics
 ```
-
+4. Start 
+```
+venv/Scripts/python.exe main.py
+```
 
 
 ## Usage <a name = "usage"></a>
